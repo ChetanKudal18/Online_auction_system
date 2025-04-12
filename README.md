@@ -29,5 +29,5 @@ A platform where users can create, browse, and bid on auction items in real-time
 
 
 🧑‍💻 Author :
-Chetan Basavaraj Kudal
+Chetan Basavaraj Kudal --
 LinkedIn: https://www.linkedin.com/in/chetan-kudal-258240270
